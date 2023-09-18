@@ -400,7 +400,7 @@ justify-content: center;
   margin-top: 30px;
   border: none;
   outline: none;
-  box-shadow: 0 0 25px 0 rgba(0,0,0,.15);;
+  box-shadow: 0 0 25px 0 rgba(0,0,0,.15);
 }
 .one>::placeholder{
 font-size: 17px;
@@ -456,7 +456,7 @@ left: 10px;
   margin: 50px auto;
   /* border: 1px solid #000; */
   background-color:white;
-  box-shadow: 0 0 25px 0 rgba(0,0,0,.15);;
+  box-shadow: 0 0 25px 0 rgba(0,0,0,.15);
   
 }
 .sli>.new{
@@ -498,7 +498,7 @@ left: 10px;
   border-radius: 50%;
   background-image: url(../img/client.jpg);
   background-size: 100% 100%;
-  border: 5.5px solid  #19C880;
+  border: 5.9px solid  #19C880;
 }
 .black{
   width: 100%;
